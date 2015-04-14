@@ -1,0 +1,15 @@
+eclipse
+compile
+run
+package
+compile
+clean
+build
+compile
+package
+compile
+package
+exit
+compile
+eclipse
+exit
